@@ -1,0 +1,5 @@
+{
+  "name": "Workflow Automator",
+  "description": "An application that uses Gemini to parse natural language commands and create visual automation workflows. Describe a task, and the AI will structure it into a trigger and an action.",
+  "requestFramePermissions": []
+}
